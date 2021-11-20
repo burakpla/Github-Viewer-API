@@ -1,2 +1,2 @@
 # Github-Viewer-API
-## Its an api project to  view Github profile, info, repos etc.
+### It's an api project to  view Github profile, info, repos etc.
